@@ -1,8 +1,2 @@
-# My First Repo 2
+# My Gitignore for Web Development
 
-This is a sample git repository containing some sample files.
-
-* Item 1.
-* Item 2.
-
-Added some more copy to the README.md file using github's online editor.
