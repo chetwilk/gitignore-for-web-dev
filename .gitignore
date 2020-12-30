@@ -1,12 +1,16 @@
 # #####################################################################
 # My basic .gitignore for Web Development.
 # http://WebDevChet.com
-# version 2.1
+# version 2.2
 # created on 20140211
-# last revision 20170802
+# previous revision 20170802
+# last revision 20201230
 # #####################################################################
 
 
+# ignore vim temp and swap files
+*.swp
+*.swo
 
 # ignore composer vendor directory
 /vendor
