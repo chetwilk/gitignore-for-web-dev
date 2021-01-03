@@ -4,13 +4,17 @@
 # version 2.2
 # created on 20140211
 # previous revision 20170802
-# last revision 20201230
+# previous revision 20201230
+# last revision 20210103
 # #####################################################################
 
 
 # ignore vim temp and swap files
 *.swp
 *.swo
+
+# ignore elementary os code editor temp files
+*.*~
 
 # ignore composer vendor directory
 /vendor
